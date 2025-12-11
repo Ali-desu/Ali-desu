@@ -63,22 +63,6 @@ I'm a dedicated student software engineer with a keen interest in building robus
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-FF6B6B?style=for-the-badge&logo=patterns&logoColor=white)
 ![Testing (JUnit)](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-## 📊 GitHub Stats
-
-<!-- GitHub trophies -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-desu)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ali-desu&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
-</p>
-
-<!--
-Optional funny streak (very popular right now)
--->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-desu&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ---
 
