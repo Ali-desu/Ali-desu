@@ -11,6 +11,7 @@ I'm a recently graduated software engineer from ENSA Marrakech, comfortable acro
 - 👯 Looking to collaborate on open-source projects or ambitious side builds
 - 💬 Ask me about backend development, data pipelines, AI agents, or design patterns
 - 📫 Reach me: aliadnani056@gmail.com
+- portfolio : https://ali-el-adnani.vercel.app/
 
 ## 🛠️ Skills & Technologies
 
